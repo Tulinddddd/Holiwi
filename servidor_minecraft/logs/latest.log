@@ -6879,3 +6879,44 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [02Dec2024 03:01:01.719] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
 [02Dec2024 03:01:01.720] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
 [02Dec2024 03:01:01.720] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[02Dec2024 03:01:18.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5460ms or 109 ticks behind
+[02Dec2024 03:01:38.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4720ms or 94 ticks behind
+[02Dec2024 03:01:57.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2389ms or 47 ticks behind
+[02Dec2024 03:02:16.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3920ms or 78 ticks behind
+[02Dec2024 03:02:48.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[02Dec2024 03:03:09.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02Dec2024 03:03:26.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2806ms or 56 ticks behind
+[02Dec2024 03:03:32.544] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=73, z=20}
+[02Dec2024 03:03:50.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8444ms or 168 ticks behind
+[02Dec2024 03:04:11.907] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6671ms or 133 ticks behind
+[02Dec2024 03:04:35.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8231ms or 164 ticks behind
+[02Dec2024 03:04:58.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8706ms or 174 ticks behind
+[02Dec2024 03:05:19.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5609ms or 112 ticks behind
+[02Dec2024 03:05:40.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5927ms or 118 ticks behind
+[02Dec2024 03:05:59.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GordoTulin lost connection: Disconnected
+[02Dec2024 03:05:59.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GordoTulin left the game
+[02Dec2024 03:05:59.365] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GordoTulin
+[02Dec2024 03:06:00.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Genzo_x lost connection: Disconnected
+[02Dec2024 03:06:00.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Genzo_x left the game
+[02Dec2024 03:06:00.403] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Genzo_x
+[02Dec2024 03:06:00.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5377ms or 107 ticks behind
+[02Dec2024 03:06:29.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Dec2024 03:06:29.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Dec2024 03:06:29.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Dec2024 03:06:29.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Dec2024 03:06:30.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Dec2024 03:06:30.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Dec2024 03:06:30.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[02Dec2024 03:06:30.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[02Dec2024 03:06:30.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Dec2024 03:06:30.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Dec2024 03:06:30.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Dec2024 03:06:30.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[02Dec2024 03:06:30.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[02Dec2024 03:06:30.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Dec2024 03:06:30.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Dec2024 03:06:30.722] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@511a7d7f
+[02Dec2024 03:06:30.723] [Server thread/INFO] [Framework/]: Unloading server configs...
+[02Dec2024 03:06:30.724] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[02Dec2024 03:06:30.727] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[02Dec2024 03:06:30.746] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
