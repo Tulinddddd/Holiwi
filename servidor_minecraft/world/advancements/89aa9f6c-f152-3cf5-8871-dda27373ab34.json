@@ -2743,6 +2743,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/easy_opening": {
+    "criteria": {
+      "coded_trigger": "2024-12-02 02:07:00 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/stone": {
     "criteria": {
       "has_the_recipe": "2024-12-02 02:04:27 +0000"

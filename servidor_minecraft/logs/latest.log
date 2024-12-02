@@ -6400,3 +6400,27 @@ java.lang.RuntimeException: Unknown registry key in ResourceKey[minecraft:root /
 [02Dec2024 02:07:11.829] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5fa9a4f2[id=<null>,name=Genzo_x,properties={},legacy=false] (/127.199.131.25:37291) lost connection: Disconnected
 [02Dec2024 02:07:38.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GordoTulin: Set own game mode to Survival Mode]
 [02Dec2024 02:07:49.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GordoTulin: Set own game mode to Creative Mode]
+[02Dec2024 02:10:44.325] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5255289c[id=<null>,name=Genzo_x,properties={},legacy=false] (/127.199.131.25:34473) lost connection: Disconnected
+[02Dec2024 02:11:08.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GordoTulin lost connection: Disconnected
+[02Dec2024 02:11:08.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GordoTulin left the game
+[02Dec2024 02:11:08.447] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GordoTulin
+[02Dec2024 02:11:10.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[02Dec2024 02:11:10.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Dec2024 02:11:10.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Dec2024 02:11:10.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Dec2024 02:11:11.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Dec2024 02:11:11.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02Dec2024 02:11:11.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[02Dec2024 02:11:11.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[02Dec2024 02:11:11.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02Dec2024 02:11:11.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Dec2024 02:11:11.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Dec2024 02:11:11.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[02Dec2024 02:11:11.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[02Dec2024 02:11:11.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Dec2024 02:11:11.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02Dec2024 02:11:11.904] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@357c5c76
+[02Dec2024 02:11:11.904] [Server thread/INFO] [Framework/]: Unloading server configs...
+[02Dec2024 02:11:11.906] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[02Dec2024 02:11:11.908] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[02Dec2024 02:11:11.926] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
