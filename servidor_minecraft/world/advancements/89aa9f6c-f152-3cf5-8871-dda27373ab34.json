@@ -2225,6 +2225,7 @@
       "minecraft:river": "2024-12-02 00:02:51 +0000",
       "minecraft:cold_ocean": "2024-12-02 02:42:05 +0000",
       "minecraft:forest": "2024-12-02 00:02:11 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-02 02:50:39 +0000",
       "minecraft:frozen_ocean": "2024-12-02 02:45:37 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-02 02:46:11 +0000",
       "minecraft:snowy_beach": "2024-12-02 02:45:50 +0000",
@@ -2935,6 +2936,12 @@
     },
     "done": true
   },
+  "ec_es_plugin:recipes/combat/straw_gauntlet_conditional_shaped": {
+    "criteria": {
+      "has_item": "2024-12-02 02:53:30 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/quiver": {
     "criteria": {
       "has_leather": "2024-12-02 02:44:22 +0000"
@@ -2992,6 +2999,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-02 02:35:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-02 02:53:30 +0000"
     },
     "done": true
   },
@@ -3164,6 +3177,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-02 02:53:30 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/asian_red_bridge_pier": {
     "criteria": {
       "has_planks": "2024-12-02 02:35:07 +0000"
@@ -3206,6 +3225,12 @@
     },
     "done": false
   },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2024-12-02 02:53:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-02 02:36:52 +0000"
@@ -3245,6 +3270,12 @@
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2024-12-02 02:37:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-02 02:53:30 +0000"
     },
     "done": true
   },
@@ -3627,6 +3658,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-02 02:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-02 02:53:30 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-02 02:41:50 +0000"
@@ -3915,6 +3958,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-02 02:53:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-02 02:35:07 +0000"
@@ -4062,6 +4111,12 @@
   "enigmaticlegacy:book/accessories/ender_ring": {
     "criteria": {
       "is_cursed_one": "2024-12-02 02:37:57 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2024-12-02 02:53:30 +0000"
     },
     "done": true
   },

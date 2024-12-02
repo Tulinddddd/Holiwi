@@ -6711,3 +6711,171 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02Dec2024 02:51:02.113] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:02.315] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:02.498] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:02.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:02.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:03.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
+[02Dec2024 02:51:03.270] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:03.572] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:03.798] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:04.100] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:04.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:04.497] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:04.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:04.904] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:05.264] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:05.559] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:05.881] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:06.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:06.423] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:06.689] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:06.941] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:07.181] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:07.435] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:07.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:07.922] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:08.223] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:08.634] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:08.809] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:08.935] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:09.072] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:09.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:09.373] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:09.518] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:09.647] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Dec2024 02:51:30.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12647ms or 252 ticks behind
+[02Dec2024 02:51:52.328] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=73, z=20}
+[02Dec2024 02:51:58.066] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12430ms or 248 ticks behind
+[02Dec2024 02:52:23.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Genzo_x moved too quickly! 16.995872356576456,1.620940990483561,-5.043984824954762
+[02Dec2024 02:52:23.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of GordoTulin) moved too quickly! 9.308548187109864,0.0,4.238289479394247
+[02Dec2024 02:52:23.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of GordoTulin) moved too quickly! 9.652905098765359,0.0,4.437082952242157
+[02Dec2024 02:52:23.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of GordoTulin) moved too quickly! 9.999738789551657,0.0,4.63140709866974
+[02Dec2024 02:52:23.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of GordoTulin) moved too quickly! 10.349196380311923,0.0,4.820726823924716
+[02Dec2024 02:52:23.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of GordoTulin) moved too quickly! 10.701347951969638,0.0,5.004651532027012
+[02Dec2024 02:52:24.025] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[02Dec2024 02:52:24.382] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11347ms or 226 ticks behind
+[02Dec2024 02:52:25.885] [Server thread/WARN] [tombstone/]: The death event of the player Genzo_x was canceled by another mod
+[02Dec2024 02:52:25.889] [Server thread/INFO] [tombstone/]: The player Genzo_x has successfully been saved
+[02Dec2024 02:52:42.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2755ms or 55 ticks behind
+[02Dec2024 02:52:48.911] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[02Dec2024 02:52:58.799] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=73, z=20}
+[02Dec2024 02:53:01.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4302ms or 86 ticks behind
+[02Dec2024 02:53:07.032] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5422, y=81, z=-9004}
+[02Dec2024 02:53:07.060] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9009}
+[02Dec2024 02:53:07.116] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9007}
+[02Dec2024 02:53:07.116] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9008}
+[02Dec2024 02:53:07.116] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
+[02Dec2024 02:53:07.117] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
+[02Dec2024 02:53:07.119] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
+[02Dec2024 02:53:21.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4837ms or 96 ticks behind
+[02Dec2024 02:53:27.231] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2185, y=40, z=-100} but found not block entity block Block{minecraft:water}[level=8] at location
+[02Dec2024 02:53:27.231] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=2185, y=40, z=-100}
+[02Dec2024 02:53:27.456] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=73, z=20}
+[02Dec2024 02:53:42.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6456ms or 129 ticks behind
+[02Dec2024 02:54:08.760] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[02Dec2024 02:54:37.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[02Dec2024 02:55:06.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[02Dec2024 02:55:09.508] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-23, z=87}
+[02Dec2024 02:55:09.508] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-23, z=87}
+[02Dec2024 02:55:10.158] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-23, z=87}
+[02Dec2024 02:55:10.158] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-23, z=87}
+[02Dec2024 02:55:24.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
+[02Dec2024 02:55:34.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Genzo_x was kicked for floating too long!
+[02Dec2024 02:55:34.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Genzo_x lost connection: Flying is not enabled on this server
+[02Dec2024 02:55:34.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Genzo_x left the game
+[02Dec2024 02:55:34.764] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Genzo_x
+[02Dec2024 02:55:34.866] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Dec2024 02:55:41.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2920ms or 58 ticks behind
+[02Dec2024 02:55:57.269] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 187
+[02Dec2024 02:55:57.270] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 188
+[02Dec2024 02:55:57.324] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 189
+[02Dec2024 02:55:57.325] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 190
+[02Dec2024 02:55:57.434] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 191
+[02Dec2024 02:55:57.434] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 192
+[02Dec2024 02:55:57.434] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 193
+[02Dec2024 02:55:57.599] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 194
+[02Dec2024 02:55:57.602] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 195
+[02Dec2024 02:55:57.734] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 196
+[02Dec2024 02:55:57.734] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 197
+[02Dec2024 02:55:57.734] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 198
+[02Dec2024 02:55:58.420] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 199
+[02Dec2024 02:55:58.464] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 200
+[02Dec2024 02:55:58.464] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 201
+[02Dec2024 02:55:58.465] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 202
+[02Dec2024 02:55:58.969] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Genzo_x[/127.199.131.25:41007] logged in with entity id 18619 at (1993.7289021284823, 71.18174166401586, -211.81508788331485)
+[02Dec2024 02:55:59.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Genzo_x joined the game
+[02Dec2024 02:55:59.172] [Server thread/INFO] [Jade/]: Syncing config to Genzo_x (86893dd4-477d-3ab1-92df-b341237e8bcd)
+[02Dec2024 02:55:59.185] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Genzo_x...
+[02Dec2024 02:55:59.185] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[02Dec2024 02:55:59.185] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Dec2024 02:55:59.186] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Genzo_x
+[02Dec2024 02:55:59.424] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Genzo_x (18)
+[02Dec2024 02:55:59.425] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Genzo_x
+[02Dec2024 02:56:00.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3223ms or 64 ticks behind
+[02Dec2024 02:56:08.402] [Server thread/WARN] [tombstone/]: The death event of the player Genzo_x was canceled by another mod
+[02Dec2024 02:56:08.418] [Server thread/INFO] [tombstone/]: The player Genzo_x has successfully been saved
+[02Dec2024 02:56:19.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4005ms or 80 ticks behind
+[02Dec2024 02:56:39.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4941ms or 98 ticks behind
+[02Dec2024 02:56:48.791] [Server thread/WARN] [tombstone/]: The death event of the player GordoTulin was canceled by another mod
+[02Dec2024 02:56:48.813] [Server thread/INFO] [tombstone/]: The player GordoTulin has successfully been saved
+[02Dec2024 02:57:01.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GordoTulin was slain by Cave Spider
+[02Dec2024 02:57:01.532] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from GordoTulin at X: 2005.3787249099446, Y: 63.0, Z: -504.7560814947839
+[02Dec2024 02:57:09.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GordoTulin: Teleported GordoTulin to Genzo_x]
+[02Dec2024 02:57:14.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Genzo_x fell from a high place
+[02Dec2024 02:57:14.075] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Genzo_x at X: 1999.8324176768251, Y: 63.0, Z: -511.3957384275
+[02Dec2024 02:57:14.077] [Server thread/INFO] [tombstone/]: The player Genzo_x has successfully been saved
+[02Dec2024 02:57:16.950] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player GordoTulin picking up: PermanentItemEntity['Soul Crystal'/19496, l='ServerLevel[world]', x=2005.38, y=64.50, z=-504.76]
+[02Dec2024 02:57:16.951] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/19496, l='ServerLevel[world]', x=2005.38, y=64.50, z=-504.76]
+[02Dec2024 02:57:25.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[02Dec2024 02:57:55.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GordoTulin: Made Genzo_x a server operator]
+[02Dec2024 02:57:56.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Genzo_x moved too quickly! 16.850469361010255,-0.5599933038458289,-4.768272672490639
+[02Dec2024 02:58:02.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Genzo_x: Teleported Genzo_x to GordoTulin]
+[02Dec2024 02:58:13.448] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Genzo_x picking up: PermanentItemEntity['Soul Crystal'/19735, l='ServerLevel[world]', x=1999.83, y=64.50, z=-511.40]
+[02Dec2024 02:58:13.449] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/19735, l='ServerLevel[world]', x=1999.83, y=64.50, z=-511.40]
+[02Dec2024 02:59:33.451] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=73, z=20}
+[02Dec2024 02:59:38.916] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[02Dec2024 02:59:38.932] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[02Dec2024 02:59:52.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[02Dec2024 03:00:17.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[02Dec2024 03:00:18.476] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1, y=-56, z=26}
+[02Dec2024 03:00:18.476] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2, y=-56, z=26}
+[02Dec2024 03:00:18.477] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=0, y=-56, z=26}
+[02Dec2024 03:00:18.477] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=19}
+[02Dec2024 03:00:22.086] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-53, z=18}
+[02Dec2024 03:00:35.104] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[02Dec2024 03:00:35.105] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[02Dec2024 03:00:35.105] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[02Dec2024 03:00:35.105] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[02Dec2024 03:00:35.106] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[02Dec2024 03:00:35.113] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[02Dec2024 03:00:35.113] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[02Dec2024 03:00:35.113] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[02Dec2024 03:00:35.290] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[02Dec2024 03:00:35.290] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[02Dec2024 03:00:35.290] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[02Dec2024 03:00:35.291] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[02Dec2024 03:00:38.093] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Dec2024 03:00:38.331] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5646ms or 112 ticks behind
+[02Dec2024 03:00:38.535] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Dec2024 03:00:38.535] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Dec2024 03:00:38.536] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Dec2024 03:00:40.354] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Dec2024 03:00:40.828] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Dec2024 03:00:40.870] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Dec2024 03:00:40.871] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Dec2024 03:00:40.872] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Dec2024 03:00:41.527] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Dec2024 03:00:58.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4732ms or 94 ticks behind
+[02Dec2024 03:01:01.611] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[02Dec2024 03:01:01.612] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[02Dec2024 03:01:01.612] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[02Dec2024 03:01:01.612] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[02Dec2024 03:01:01.716] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[02Dec2024 03:01:01.717] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[02Dec2024 03:01:01.718] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[02Dec2024 03:01:01.718] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[02Dec2024 03:01:01.719] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[02Dec2024 03:01:01.720] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[02Dec2024 03:01:01.720] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
