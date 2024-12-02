@@ -6534,3 +6534,180 @@ java.lang.RuntimeException: Unknown registry key in ResourceKey[minecraft:root /
 [02Dec2024 02:39:01.028] [Server thread/INFO] [tombstone/]: The player Genzo_x has successfully been saved
 [02Dec2024 02:40:19.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
 [02Dec2024 02:40:36.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2256ms or 45 ticks behind
+[02Dec2024 02:40:56.220] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4784ms or 95 ticks behind
+[02Dec2024 02:41:24.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2199ms or 43 ticks behind
+[02Dec2024 02:41:46.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7042ms or 140 ticks behind
+[02Dec2024 02:41:57.313] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Dec2024 02:41:57.536] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Dec2024 02:41:57.571] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Dec2024 02:42:00.343] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[02Dec2024 02:42:09.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8241ms or 164 ticks behind
+[02Dec2024 02:42:09.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Genzo_x has made the advancement [Hunt and Gather]
+[02Dec2024 02:42:12.653] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=600, y=2, z=-416} but found not block entity block Block{minecraft:water}[level=1] at location
+[02Dec2024 02:42:12.654] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=600, y=2, z=-416}
+[02Dec2024 02:42:14.246] [Server thread/WARN] [tombstone/]: The death event of the player Genzo_x was canceled by another mod
+[02Dec2024 02:42:14.285] [Server thread/INFO] [tombstone/]: The player Genzo_x has successfully been saved
+[02Dec2024 02:42:21.830] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=243, y=1, z=348} but found not block entity block Block{minecraft:water}[level=1] at location
+[02Dec2024 02:42:21.830] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=243, y=1, z=348}
+[02Dec2024 02:42:30.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6195ms or 123 ticks behind
+[02Dec2024 02:42:43.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Genzo_x was slain by GordoTulin
+[02Dec2024 02:42:43.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Genzo_x has made the advancement [Your First Grave]
+[02Dec2024 02:42:43.405] [Server thread/INFO] [Enigmatic Legacy/INFO]: Teared Soul Crystal from Genzo_x at X: 476.173865469779, Y: 63.0, Z: -199.67438982632459
+[02Dec2024 02:42:43.415] [Server thread/INFO] [tombstone/]: The player Genzo_x has successfully been saved
+[02Dec2024 02:43:11.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Genzo_x has reached the goal [Here They Come]
+[02Dec2024 02:43:12.622] [Server thread/INFO] [Enigmatic Legacy/INFO]: Player Genzo_x picking up: PermanentItemEntity['Soul Crystal'/7648, l='ServerLevel[world]', x=476.17, y=64.50, z=-199.67]
+[02Dec2024 02:43:12.622] [Server thread/WARN] [Enigmatic Legacy/WARNING]: [WARN] Removing Permanent Item Entity: PermanentItemEntity['Soul Crystal'/7648, l='ServerLevel[world]', x=476.17, y=64.50, z=-199.67]
+[02Dec2024 02:43:30.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[02Dec2024 02:43:48.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3174ms or 63 ticks behind
+[02Dec2024 02:44:05.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[02Dec2024 02:44:18.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GordoTulin has made the advancement [Crops of the Wild]
+[02Dec2024 02:44:23.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3132ms or 62 ticks behind
+[02Dec2024 02:44:43.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4643ms or 92 ticks behind
+[02Dec2024 02:45:03.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4935ms or 98 ticks behind
+[02Dec2024 02:45:06.027] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=73, z=20}
+[02Dec2024 02:45:06.055] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02Dec2024 02:45:06.061] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02Dec2024 02:45:10.420] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1087, y=-68, z=-361} but found not block entity block Block{minecraft:air} at location
+[02Dec2024 02:45:10.422] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1087, y=-68, z=-361}
+[02Dec2024 02:45:11.342] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1088, y=-68, z=-361} but found not block entity block Block{minecraft:air} at location
+[02Dec2024 02:45:11.343] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1088, y=-68, z=-361}
+[02Dec2024 02:45:11.343] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1090, y=-68, z=-361} but found not block entity block Block{minecraft:air} at location
+[02Dec2024 02:45:11.343] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=1090, y=-68, z=-361}
+[02Dec2024 02:45:23.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[02Dec2024 02:45:40.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2279ms or 45 ticks behind
+[02Dec2024 02:46:00.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Genzo_x has made the advancement [Ice Maze]
+[02Dec2024 02:46:01.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[02Dec2024 02:46:02.822] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5422, y=81, z=-9004}
+[02Dec2024 02:46:02.852] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9009}
+[02Dec2024 02:46:02.977] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9007}
+[02Dec2024 02:46:02.978] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9008}
+[02Dec2024 02:46:02.978] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
+[02Dec2024 02:46:02.978] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
+[02Dec2024 02:46:02.978] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
+[02Dec2024 02:46:11.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GordoTulin has made the advancement [Ice Maze]
+[02Dec2024 02:46:20.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3572ms or 71 ticks behind
+[02Dec2024 02:46:40.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
+[02Dec2024 02:47:25.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Genzo_x was kicked for floating too long!
+[02Dec2024 02:47:25.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Genzo_x lost connection: Flying is not enabled on this server
+[02Dec2024 02:47:25.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Genzo_x left the game
+[02Dec2024 02:47:25.130] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Genzo_x
+[02Dec2024 02:47:44.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[02Dec2024 02:47:52.214] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 187
+[02Dec2024 02:47:52.378] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 188
+[02Dec2024 02:47:52.420] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 189
+[02Dec2024 02:47:52.420] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 190
+[02Dec2024 02:47:52.542] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 191
+[02Dec2024 02:47:52.572] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 192
+[02Dec2024 02:47:52.573] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 193
+[02Dec2024 02:47:52.573] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 194
+[02Dec2024 02:47:52.706] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 195
+[02Dec2024 02:47:52.707] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 196
+[02Dec2024 02:47:52.707] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 197
+[02Dec2024 02:47:52.794] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 198
+[02Dec2024 02:47:53.483] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 199
+[02Dec2024 02:47:53.484] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 200
+[02Dec2024 02:47:53.484] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 201
+[02Dec2024 02:47:53.487] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 202
+[02Dec2024 02:47:54.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Genzo_x[/127.199.131.25:55251] logged in with entity id 11801 at (1179.5043664903953, 74.87581356858608, -291.8579905327989)
+[02Dec2024 02:47:54.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Genzo_x joined the game
+[02Dec2024 02:47:54.258] [Server thread/INFO] [Jade/]: Syncing config to Genzo_x (86893dd4-477d-3ab1-92df-b341237e8bcd)
+[02Dec2024 02:47:54.278] [Server thread/INFO] [Enigmatic Legacy/INFO]: Synchronizing omniconfig files to Genzo_x...
+[02Dec2024 02:47:54.279] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticaddons-common.omniconf
+[02Dec2024 02:47:54.280] [Server thread/INFO] [Enigmatic Legacy/INFO]: Sending data for enigmaticlegacy-common.omniconf
+[02Dec2024 02:47:54.281] [Server thread/INFO] [Enigmatic Legacy/INFO]: Granting starter gear to Genzo_x
+[02Dec2024 02:47:54.490] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Genzo_x (18)
+[02Dec2024 02:47:54.491] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Genzo_x
+[02Dec2024 02:48:00.266] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1408, y=-32, z=-403} but found not block entity block Block{minecraft:lava}[level=4] at location
+[02Dec2024 02:48:00.267] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lava}[level=4] but failed at location BlockPos{x=1408, y=-32, z=-403}
+[02Dec2024 02:48:05.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[02Dec2024 02:48:17.673] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1329, y=109, z=1363}
+[02Dec2024 02:48:22.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GordoTulin has made the advancement [Best Friends Forever]
+[02Dec2024 02:48:29.916] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9730ms or 194 ticks behind
+[02Dec2024 02:48:51.350] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=124, y=-23, z=87}
+[02Dec2024 02:48:51.528] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=114, y=-23, z=87}
+[02Dec2024 02:48:54.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9164ms or 183 ticks behind
+[02Dec2024 02:49:05.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Genzo_x has made the advancement [Warped]
+[02Dec2024 02:49:18.428] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5422, y=81, z=-9004}
+[02Dec2024 02:49:18.467] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9009}
+[02Dec2024 02:49:18.729] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9007}
+[02Dec2024 02:49:18.730] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9008}
+[02Dec2024 02:49:18.730] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9001}
+[02Dec2024 02:49:18.731] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-9000}
+[02Dec2024 02:49:18.731] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=5427, y=81, z=-8999}
+[02Dec2024 02:49:20.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11170ms or 223 ticks behind
+[02Dec2024 02:49:23.543] [Server thread/WARN] [tombstone/]: The death event of the player Genzo_x was canceled by another mod
+[02Dec2024 02:49:23.612] [Server thread/INFO] [tombstone/]: The player Genzo_x has successfully been saved
+[02Dec2024 02:49:47.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12097ms or 241 ticks behind
+[02Dec2024 02:50:11.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9524ms or 190 ticks behind
+[02Dec2024 02:50:41.645] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02Dec2024 02:51:01.139] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=36, y=73, z=20}
+[02Dec2024 02:51:01.149] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[02Dec2024 02:51:01.152] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+java.lang.IllegalArgumentException: sectionPos out of bounds
+	at net.minecraft.world.level.chunk.storage.SectionStorage.m_63827_(SectionStorage.java:106) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.world.entity.ai.village.poi.PoiManager.m_217919_(PoiManager.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.level.ServerLevel.m_215076_(ServerLevel.java:1217) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23489!/:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
